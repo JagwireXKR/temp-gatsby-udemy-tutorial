@@ -24,8 +24,8 @@ export default function Home() {
               </div>
             </div>
           </header>
+          <AllRecipes />
         </main>
-        <AllRecipes />
       </Layout>
   )
 }
